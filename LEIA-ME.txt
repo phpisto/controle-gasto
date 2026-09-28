@@ -1,0 +1,18 @@
+CONTROLE DE GASTOS — APP PWA
+
+Arquivos do app:
+- index.html
+- manifest.webmanifest
+- service-worker.js
+- icon-192.png
+- icon-512.png
+- apple-touch-icon.png
+
+Para instalar no iPhone:
+1. Publique esta pasta em um endereço HTTPS (GitHub Pages, Netlify, Vercel ou hospedagem própria).
+2. Abra o endereço no Safari.
+3. Toque em Compartilhar.
+4. Escolha “Adicionar à Tela de Início”.
+
+Os dados do controle ficam salvos no navegador/aparelho via localStorage.
+O app também funciona offline depois da primeira abertura pelo endereço publicado.
